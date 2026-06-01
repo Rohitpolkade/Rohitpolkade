@@ -2,22 +2,22 @@
 
 B.Tech Student in AI & Data Science.
 
-## Currently Learning
+## Learning Focus
 - Data Structures & Algorithms
 - Python
 - Java
 - Machine Learning
 
 ## Current Repositories
-- DSA
-- AIDS journey
+- [DSA](https://github.com/Rohitpolkade/DSA)
+- [AI & DS Journey](https://github.com/Rohitpolkade/ai-ds-journey)
 
-## Goals
+## Current Goals
 - Complete Striver A2Z DSA Sheet
-- Build AI/ML projects
-- Improve problem-solving skills
-- Prepare for software engineering roles
+- Build AI/ML Projects
+- Improve Problem-Solving Skills
+- Prepare for Software Engineering Roles
 
 ## Contact
-- GitHub: github.com/Rohitpolkade
-- LinkedIn: linkedin.com/in/rohitpolkade
+- [GitHub](https://github.com/Rohitpolkade)
+- [LinkedIn](https://www.linkedin.com/in/rohitpolkade)
