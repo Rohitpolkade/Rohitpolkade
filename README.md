@@ -1,16 +1,23 @@
-## Hi there 👋
+# Rohit Polkade
 
-<!--
-**Rohitpolkade/Rohitpolkade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Student in AI & Data Science.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Data Structures & Algorithms
+- Python
+- Java
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Repositories
+- DSA
+- AIDS journey
+
+## Goals
+- Complete Striver A2Z DSA Sheet
+- Build AI/ML projects
+- Improve problem-solving skills
+- Prepare for software engineering roles
+
+## Contact
+- GitHub: github.com/Rohitpolkade
+- LinkedIn: linkedin.com/in/rohitpolkade
